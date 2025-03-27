@@ -1,1 +1,1 @@
-This was made to replace the old unscrambler.py that was used to decrypt teamcity secrets. This incorporates updates packages and does not use the depricated pycrypto package. If you do not have the pycryptodome package just use "pip install pycryptodome" and then the script will work.
+This was made to replace the old unscrambler.py that was used to decrypt teamcity secrets. This incorporates updates packages and does not use the depricated pycrypto package.
